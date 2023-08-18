@@ -98,6 +98,7 @@
         flex-direction: column;
         margin-left: 20px;
         margin-bottom: 20px;
+        
     }
     .input-flex {
         
@@ -107,7 +108,9 @@
         
     
     }
-    
+    .output-year ,.output-day ,.output-month {
+        margin-right: 10px;
+    }
 
     @media (max-width:768px) {
         input {
