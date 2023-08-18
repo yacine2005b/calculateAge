@@ -107,9 +107,7 @@
         
     
     }
-    .output-year ,.output-month,.output-day {
-        margin-right: 5px;
-    }
+    
 
     @media (max-width:768px) {
         input {
